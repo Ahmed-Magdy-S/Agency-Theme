@@ -1,0 +1,19 @@
+{
+  "name": "agency-theme",
+  "version": "1.0.0",
+  "description": "create agency theme from A to Z",
+  "main": "index.js",
+  "scripts": {
+    "sass-watch": "sass sass/main-sass.scss main-style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-Magdy-S/Agency-Theme.git"
+  },
+  "author": "Ahmed Magdy Seleem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmed-Magdy-S/Agency-Theme/issues"
+  },
+  "homepage": "https://github.com/Ahmed-Magdy-S/Agency-Theme#readme"
+}
